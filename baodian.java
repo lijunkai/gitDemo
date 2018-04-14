@@ -1,5 +1,4 @@
 package com.atguigu.homework;
-
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -57,6 +56,7 @@ public class TestInputStream {
 		//3.关闭
 		br.close();
 		System.out.println("成绩："+score);
+		
 	}
 	
 }
